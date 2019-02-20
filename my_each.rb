@@ -8,3 +8,6 @@
 #     array 
 #   end
 # end
+
+def my_each(array)
+end
